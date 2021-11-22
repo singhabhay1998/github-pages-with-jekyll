@@ -1,5 +1,5 @@
 
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "my name is abhay pratap singh"
+date: 2021-11-22
 ---
